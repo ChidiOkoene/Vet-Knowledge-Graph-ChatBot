@@ -1,0 +1,13 @@
+amoxicillin
+enrofloxacin
+doxycycline
+cephalexin
+metronidazole
+coma
+stupor
+lethargy
+depression
+hyperesthesia
+anesthesia
+analgesia
+sedation
